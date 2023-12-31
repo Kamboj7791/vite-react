@@ -1,0 +1,16 @@
+.kg-item{
+  background-color: lightblue;
+}
+.kg-item{
+  color: blue;
+}
+.addFriend{
+  text-transform: capitalize;
+  margin: 4px;
+  font-size: 12px;
+  background-color: rgb(87, 87, 237);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  float: right;
+}
